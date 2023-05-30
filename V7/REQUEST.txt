@@ -1,0 +1,7 @@
+Hi, I have been trying to make use of your redesign of the Leapfrog Creatr Printer.
+
+I want to use the bondtech extruder from a prusa printer. The rods and bearings are the same, but the distance between them is 5mm less. Could you move the holes 5mm closer to eachother. 
+
+Kind Regards, Ruben
+
+You may contact me on my email; ruben.oosterwijk@hva.nl
